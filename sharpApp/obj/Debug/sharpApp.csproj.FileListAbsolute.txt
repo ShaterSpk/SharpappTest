@@ -1,0 +1,11 @@
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\bin\Debug\sharpApp.exe.config
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\bin\Debug\sharpApp.exe
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\bin\Debug\sharpApp.pdb
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.csprojAssemblyReference.cache
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.Form1.resources
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.Properties.Resources.resources
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.csproj.GenerateResource.cache
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.csproj.CoreCompileInputs.cache
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.exe
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.pdb
+C:\Users\m-poh\source\repos\sharpApp\sharpApp\obj\Debug\sharpApp.Form2.resources
